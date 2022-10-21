@@ -1,6 +1,6 @@
 # About Me
 
-Hello World, i'm Sebastien.  
+Hello, i'm Sebastien.  
 I've started to learn web development since 2020 and i am currently focused on front-end with some frameworks like React, Next and Vue.  
 
 I've planned to learn the following technologies in the next few months : 
