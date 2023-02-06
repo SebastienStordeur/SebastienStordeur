@@ -5,7 +5,7 @@ I've started to learn web development since 2020 and i am currently focused on f
 
 I've planned to learn the following technologies in the next few months : 
 - Wordpress
-- Php / Laravel
+- Django
 - Angular
 
 ## Languages and Tools
