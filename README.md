@@ -12,7 +12,8 @@ I have expertise in the following technologies and tools:
 I have worked as a web developer, collaborating with various clients and agencies.
 - Successfully delivering customized web solutions that met client requirements.
 - Optimizing website performance and improving loading times through code optimization and responsive design.
-- 
+
+
 ## 📫 Let's Connect
 I'm always open to new opportunities, collaborations, and discussions. You can reach out to me through:
 - Email: [stordeursebastien0@gmail.com]
