@@ -1,7 +1,20 @@
-# About Me
+# Hello, I'm Sebastien! 👋
 
-Hello, i'm Sebastien.  
+Welcome to my GitHub profile, where I showcase my passion for web development and share my projects and contributions. I believe in creating intuitive and visually appealing web experiences that leave a lasting impact.
 
-## Connect with me
+## 🌱 Technologies I'm Proficient In
+I have expertise in the following technologies and tools:
+- Front-end: HTML5, CSS3, JavaScript, React, Redux, Vue, Tailwind, Sass
+- Back-end: Node.js, Express, MongoDB, SQL
+- Tools: Git, Webpack, npm/yarn, Typescript, Wordpress
 
-[<img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" width="50" height="50" />](https://www.linkedin.com/in/s%C3%A9bastien-stordeur/) [<img src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" alt="Twitter" width="50" height="50" />](https://twitter.com/sebastienstrd)
+## 💼 Experience
+I have worked as a web developer, collaborating with various clients and agencies.
+- Successfully delivering customized web solutions that met client requirements.
+- Optimizing website performance and improving loading times through code optimization and responsive design.
+- 
+## 📫 Let's Connect
+I'm always open to new opportunities, collaborations, and discussions. You can reach out to me through:
+- Email: [stordeursebastien0@gmail.com]
+- LinkedIn: [(https://www.linkedin.com/in/s%C3%A9bastien-stordeur/)]
+- Portfolio: [https://www.sebastien-stordeur.com/]
