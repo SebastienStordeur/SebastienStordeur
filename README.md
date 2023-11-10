@@ -5,7 +5,7 @@ Welcome to my GitHub profile, where I showcase my passion for web development an
 ## 🌱 Technologies I'm Proficient In
 I have expertise in the following technologies and tools:
 - Languages : Javascript, Typescript, Python, Golang
-- Front-end: React, Redux, Vue, Tailwind, Sass, Material.UI
+- Front-end: React, Redux, Vue, Tailwind, Sass, Material.UI, Bootstrap
 - Back-end: Node.js, Express, MongoDB, SQL, Firebase
 - Tools: Git, Webpack, npm/yarn, Wordpress, Jest
 
