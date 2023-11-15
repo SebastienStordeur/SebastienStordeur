@@ -7,7 +7,7 @@ I have expertise in the following technologies and tools:
 - Languages : Javascript, Typescript, Python, Golang
 - Front-end: React, Redux, Vue, Tailwind, Sass, Material.UI, Bootstrap
 - Back-end: Node.js, Express, MongoDB, SQL, Firebase
-- Tools: Git, Webpack, npm/yarn, Wordpress, Jest
+- Tools: Git, Webpack, npm/yarn, Wordpress, Jest, GraphQL
 
 ## 💼 Experience
 I have worked as a web developer, collaborating with various clients and agencies.
