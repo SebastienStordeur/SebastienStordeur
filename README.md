@@ -9,8 +9,12 @@ I have expertise in the following technologies and tools:
 - Back-end: Node.js, Express, MongoDB, SQL, Firebase
 - Tools: Git, Webpack, Wordpress, Jest, GraphQL
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienStordeur)
+
 ## 📫 Let's Connect
 I'm always open to new opportunities, collaborations, and discussions. You can reach out to me through:
 - Email: [stordeursebastien0@gmail.com]
 - LinkedIn: [(https://www.linkedin.com/in/s%C3%A9bastien-stordeur/)]
 - Portfolio: [https://www.sebastien-stordeur.com/]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienStordeur)
