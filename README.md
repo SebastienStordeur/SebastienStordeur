@@ -16,5 +16,3 @@ I'm always open to new opportunities, collaborations, and discussions. You can r
 - Email: [stordeursebastien0@gmail.com]
 - LinkedIn: [(https://www.linkedin.com/in/s%C3%A9bastien-stordeur/)]
 - Portfolio: [https://www.sebastien-stordeur.com/]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienStordeur)
