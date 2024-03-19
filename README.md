@@ -7,7 +7,7 @@ I have expertise in the following technologies and tools:
 - Languages : Javascript, Typescript, Python, Golang
 - Front-end: React, Redux, Vue, Tailwind, Sass, Material.UI, Bootstrap
 - Back-end: Node.js, Express, MongoDB, SQL, Firebase
-- Tools: Git, Webpack, Wordpress, Jest, GraphQL
+- Tools: Git, Webpack, Wordpress, Jest, GraphQL, Docker
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienStordeur)
 
